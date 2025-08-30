@@ -73,7 +73,7 @@ The following models were trained and compared:
 
 　- XGBoost, LightGBM
 
-　- Matplotlib, Seaborn
+　- Matplotlib
 
 　- Jupyter Notebook
 
