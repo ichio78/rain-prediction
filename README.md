@@ -13,7 +13,7 @@ The task is inspired by Kaggle-style datasets and aims to support decision-makin
 
 **## Dataset**
 
-　- Source: Provided training dataset (not included here due to license restrictions)
+　- Source: Provided training dataset (not included here)
 
 　- Size: ~2,600 records
 
