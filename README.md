@@ -93,5 +93,6 @@ rain-prediction/
 
 **## Note on Data**
 
-The dataset is not included in this repository due to license restrictions.
-Please download it directly from Kaggle or the original source.
+The dataset is not included in this repository due to license restrictions. Please download it directly from Kaggle.
+
+https://www.kaggle.com/competitions/mlolympiadbd2024/data
