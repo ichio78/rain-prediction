@@ -2,14 +2,14 @@
 
 **Rain Prediction (Binary Classification)**
 
-<p>&nbsp;</p>
+ <p>&nbsp;</p>
 
 **## Overview**
 
 This project builds a binary classification model to predict rainfall based on historical weather data.
 The task is inspired by Kaggle-style datasets and aims to support decision-making in agriculture and outdoor event planning.
 
-<p>&nbsp;</p>
+ <p>&nbsp;</p>
 
 **## Dataset**
 
