@@ -13,7 +13,7 @@ The task is inspired by Kaggle-style datasets and aims to support decision-makin
 
 **## Dataset**
 
-　- Source: Weather dataset (train.csv)
+　- Source: Provided training dataset (not included here due to license restrictions)
 
 　- Size: ~2,600 records
 
