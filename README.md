@@ -2,10 +2,14 @@
 
 **Rain Prediction (Binary Classification)**
 
+<p>&nbsp;</p>
+
 **## Overview**
 
 This project builds a binary classification model to predict rainfall based on historical weather data.
 The task is inspired by Kaggle-style datasets and aims to support decision-making in agriculture and outdoor event planning.
+
+<p>&nbsp;</p>
 
 **## Dataset**
 
@@ -14,6 +18,8 @@ The task is inspired by Kaggle-style datasets and aims to support decision-makin
 　- Size: ~2,600 records
 
 　- Target: RainToday (Yes/No)
+
+ <p>&nbsp;</p>
 
 **## Preprocessing steps**
 
@@ -27,6 +33,8 @@ The task is inspired by Kaggle-style datasets and aims to support decision-makin
 
 　- Train/test split (80/20)
 
+ <p>&nbsp;</p>
+
 **## Exploratory Data Analysis**
 
 　- Checked missing values (none found)
@@ -34,6 +42,8 @@ The task is inspired by Kaggle-style datasets and aims to support decision-makin
 　- Histograms of numerical features
 
 　- Inspected categorical features and target distribution
+
+ <p>&nbsp;</p>
 
 **## Models & Methods**
 
@@ -57,6 +67,8 @@ The following models were trained and compared:
 
 　- Hyperparameter tuning using GridSearchCV
 
+ <p>&nbsp;</p>
+
 **## Results**
 
 　- Best Accuracy: ~84%
@@ -64,6 +76,8 @@ The following models were trained and compared:
 　- Evaluated false positives vs false negatives
 
 　- Adjusted classification threshold and calibration to improve robustness
+
+ <p>&nbsp;</p>
 
 **## Technologies Used**
 
@@ -76,6 +90,8 @@ The following models were trained and compared:
 　- Matplotlib
 
 　- Jupyter Notebook
+
+ <p>&nbsp;</p>
 
 **## Repository Structure**
 
@@ -91,8 +107,20 @@ rain-prediction/
 
 ```
 
-**## Note on Data**
+<p>&nbsp;</p>
+
+**## About Dataset**
 
 The dataset is not included in this repository due to license restrictions. Please download it directly from Kaggle.
 
 https://www.kaggle.com/competitions/mlolympiadbd2024/data
+
+<p>&nbsp;</p>
+
+**## Note**
+
+This notebook was originally developed and executed in a local Jupyter environment. 
+
+Due to the use of custom folder structures (e.g., `data/`, `notebook/`, `model/`), it may not run directly without modifications.  
+
+The main purpose of this repository is to showcase the analysis process and results, rather than to provide a fully reproducible environment.
